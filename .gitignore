@@ -56,3 +56,4 @@ test-output/emailable-report.html
 test-output/failed.png
 test-output/index.html
 test-output/jquery-1.7.1.min.js
+/target/
